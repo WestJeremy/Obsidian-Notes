@@ -1,0 +1,296 @@
+{
+  "main": {
+    "id": "3d8659ccda1f06be",
+    "type": "split",
+    "children": [
+      {
+        "id": "e0df718abba3dcfb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "17e483f8ae4b62f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ROS 2 CL.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ROS 2 CL"
+            }
+          },
+          {
+            "id": "7c8d98a81f640bdc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ROS2_Control.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ROS2_Control"
+            }
+          },
+          {
+            "id": "503c653f791632ed",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.4"
+            }
+          },
+          {
+            "id": "8fd31ef210876af0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "7_9_2024.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "7_9_2024"
+            }
+          },
+          {
+            "id": "4fef9c78cd58f9a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CAN.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CAN"
+            }
+          },
+          {
+            "id": "4ac5653e2b97457f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GIT.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "GIT"
+            }
+          },
+          {
+            "id": "1a769e8c87b9f2d3",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.9"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.9"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6b48a32c65f5f583",
+    "type": "split",
+    "children": [
+      {
+        "id": "a552e5d3e306fa6d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "30723c905c11027d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "840f97b6d2b7dc00",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "MIT motor",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "7502863a274ea5cd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "8096e3bee1e39673",
+    "type": "split",
+    "children": [
+      {
+        "id": "50352e107608a33a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "44dc8201bdd674e5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "CAN.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for CAN"
+            }
+          },
+          {
+            "id": "b85b4b5209668fdb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "CAN.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from CAN"
+            }
+          },
+          {
+            "id": "f6341ac4d23db7d0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "7285f2c9e216b507",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "CAN.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of CAN"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "30723c905c11027d",
+  "lastOpenFiles": [
+    "ROS 2 CL.md",
+    "ROS2_Control.md",
+    "GIT.md",
+    "7_9_2024.md",
+    "Computer Science.md",
+    "Docker.md",
+    "CAN.md",
+    "C++.md",
+    "Cheeta motor.md",
+    "Untitled 14.canvas",
+    "Command Line.md",
+    "Untitled 13.canvas",
+    "7_25_2024.md",
+    "Untitled 12.canvas",
+    "Linux.md",
+    "Viability leads to the emergence of gait transitions in learning agile quadrupedal locomotion on challenging terrains.md",
+    "Literature Review.md",
+    "Thesis work.md",
+    "Untitled 11.canvas",
+    "Jetson AGX Orin.md",
+    "CUDA.md",
+    "Untitled 10.canvas",
+    "Untitled 9.canvas",
+    "Things to know.md",
+    "Meetings.md",
+    "Untitled 8.canvas",
+    "Deep Stream SDK.md",
+    "TensorRT.md",
+    "2024-01-10.md",
+    "Untitled 7.canvas",
+    "Nsight Systems.md",
+    "Untitled 6.canvas",
+    "2024-08-08.md",
+    "Untitled 5.canvas",
+    "Impact-Invariant Running on the Cassie Bipedal Robot.md",
+    "Graphical Editor Options.md",
+    "Pasted image 20240222110014.png",
+    "Pasted image 20240222105939.png",
+    "Pasted image 20240222101909.png",
+    "Pasted image 20240222101558.png",
+    "Pasted image 20240222095821.png",
+    "Pasted image 20240215092806.png",
+    "Pasted image 20240205114631.png",
+    "Pasted image 20240202120645.png",
+    "Pasted image 20240202113436.png",
+    "Pasted image 20240201114727.png"
+  ]
+}
